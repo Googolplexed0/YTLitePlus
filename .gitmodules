@@ -55,9 +55,6 @@
 [submodule "Tweaks/YouTimeStamp"]
 	path = Tweaks/YouTimeStamp
 	url = https://github.com/arichornloverALT/YouTimeStamp.git
-[submodule "Tweaks/YouLoop"]
-	path = Tweaks/YouLoop
-	url = https://github.com/bhackel/YouLoop
 [submodule "Tweaks/FLEXing"]
 	path = Tweaks/FLEXing
 	url = https://github.com/PoomSmart/FLEXing.git
@@ -65,3 +62,6 @@
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
 	url = https://github.com/PoomSmart/YouSpeed
+[submodule "Tweaks/YouLoop"]
+	path = Tweaks/YouLoop
+	url = https://github.com/Googolplexed0/YouLoop
